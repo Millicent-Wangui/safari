@@ -1,0 +1,148 @@
+/*start section-header*/
+.section-header{
+    background-color: green;
+    margin: 0;
+    color: white;
+    letter-spacing: 0;
+    padding:3px 18px 1px  ;
+}
+.section-header .messages{
+    padding-left: 18px;
+}
+/*start navbar*/
+.navbar{
+    height: 16vh;
+    background-color:white;
+    padding-right: 15px;
+}
+.navbar-brand img{
+    height: 9vh;
+    width: 20%;
+    margin-left: 50px;
+}
+.navbar-nav{
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 50%;
+}
+/*end navbar*/
+/*start carousel*/
+#carouselExampleFade img{
+    height: 70vh;
+    width: 70%;
+}
+/*end carousel*/
+/*start section holiday deals*/
+.container h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.container h5{
+    padding-left: 190px;
+    padding-bottom: 15px;
+    font-family: sans-serif;
+}
+.card {
+    margin-bottom: 30px;
+}
+.card img:hover{
+    opacity: 84%;
+}
+.card img{
+    height: 30vh;
+    width:100%;
+}
+.card-text{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    padding-left: 10px;
+}
+.card-text:hover{
+    color: green;
+}
+/*end section holiday deals*/
+/* start section safaris */
+#section-safaris{
+background-color: white;
+}
+#section-safaris h3{
+    padding-top: 30px;
+    padding-bottom: 9px;
+}
+#section-safaris h2{
+    padding-top: 90px;
+    padding-bottom: 10px;
+}
+#section-safaris img{
+    height: 60vh;
+    width: 100%;;
+}
+/* end section safaris */
+/* start section top holiday offers */
+.container h1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.container h5{
+    padding-left: 190px;
+    padding-bottom: 15px;
+    font-family: sans-serif;
+}
+#section-popular-holiday-offers .card {
+    margin-bottom: 100px;
+    margin-top: 60px;
+}
+.card img:hover{
+    opacity: 84%;
+}
+.card img{
+    height: 30vh;
+    width:100%;
+}
+.card-text a{
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    padding-left: 10px;
+    color: black;
+}
+.card-text:hover a{
+    color: green;
+}
+#section-popular-holiday-offers  h3 {
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 50px;
+}
+/* end of section top holiday offers */
+/* start section add */
+#section-add h4{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
+}
+#section-add button{
+    margin-top: 30px;
+    box-sizing: border-box;
+    background-color: darkgreen;
+    text-transform: uppercase;
+}
+/* end section add  */
+/* start footer */
+#section-footer{
+    padding: 30px;
+    background-color: rgba(180, 175, 175, 0.795);
+}
+#section-footer i{
+    color: white;
+    padding-left: 15px;
+}
+#section-footer  h6{
+    color:grey;
+}
+/* end footer  */

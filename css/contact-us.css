@@ -1,0 +1,98 @@
+.section-header{
+    background-color: green;
+    margin: 0;
+    color: white;
+    letter-spacing: 0;
+    padding:3px 18px 1px  ;
+}
+.section-header .messages{
+    padding-left: 18px;
+}
+/*start navbar*/
+.navbar{
+    height: 16vh;
+    background-color:white;
+    border-bottom: 2px solid goldenrod;
+    padding-right: 10px;
+}
+.navbar-brand img{
+    height: 9vh;
+    width: 20%;
+    margin-left: 40px;
+}
+.navbar-nav{
+    text-transform: uppercase;
+    font-weight: bold;
+    width: 50%;
+    text-decoration: none;
+    
+}
+.nav-item #dropdownMenu2{
+    text-transform: uppercase;
+    color: black;
+    box-shadow: none;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    outline: none;
+    padding-top: 10px;
+}
+/*end navbar*/
+/* start section contact-us from  */
+h3{
+    text-align: center;
+    padding-top: 50px;
+    font-family: sans-serif;
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+h5{
+    text-align: center;
+    padding-left: 12px;
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+#section-contactform  .info{
+    text-align: center; 
+}
+#section-contactform .txt{
+    text-align: center;
+    text-decoration: underline;
+    text-underline-position: below;
+}
+#section-form input{
+    text-align: center;
+    padding-bottom: 30px;
+    margin-bottom: 25px;
+    display: inline;
+    padding-right: 100px;
+}
+#section-form .ym{
+    padding-bottom: 70px;
+    padding-right: 380px;
+}
+#form{
+    padding-left: 500px;
+}
+button{
+    background-color: green;
+    padding: 10px;
+    margin-left: 240px;
+}
+/* end section contact us form */
+/* start footer */
+#section-footer{
+    padding: 20px;
+    background-color: rgba(180, 175, 175, 0.795);
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+#section-footer i{
+    color: white;
+    padding-left: 15px;
+}
+#section-footer  h6{
+    color:grey;
+}
+/* end footer  */
